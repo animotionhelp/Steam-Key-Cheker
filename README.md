@@ -12,6 +12,7 @@ Disclaimer: This is unofficial App and does not store or share any Steam account
 
 **Step 1** - Login to steamworks and open KeyQuery page : https://partner.steamgames.com/querycdkey/cdkey?cdkey=
 **Step 2** - Paste your keys: 1 key per Line.
+
 **Step 3** - Submit and Save Result as text.txt file.
 
 - Refreshing Webpage After Every Request is Good Practice.
