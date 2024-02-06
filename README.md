@@ -1,4 +1,7 @@
 # **Steam Key Cheker** Chrome Extension
+<head>
+<meta name="google-site-verification" content="cgU8DvtdK8YQHw6IolWviX8ROayn0FMglhXKSl3T-hc" />
+</head>
 **This Chrome Extension helps Steamwork Game Developers to Verify there steam keys in bulk
 **
 Disclaimer: This is unofficial App and does not store or share any Steam account or CD key information. It is solely designed to help Game Developers checking CD key activation status in bulk on the Steamworks partner site. This extension is not affiliated with Steam. Please use Responsibly.
