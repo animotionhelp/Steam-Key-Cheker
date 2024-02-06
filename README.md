@@ -25,3 +25,6 @@ Don't know max limit. but it's always better split in multiple.
 
 Get it here :
 incomplete documents.
+
+
+<meta name="google-site-verification" content="cgU8DvtdK8YQHw6IolWviX8ROayn0FMglhXKSl3T-hc" />
