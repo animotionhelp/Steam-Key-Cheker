@@ -1,3 +1,4 @@
+<head><meta name="google-site-verification" content="cgU8DvtdK8YQHw6IolWviX8ROayn0FMglhXKSl3T-hc" /></head>
 # **Steam Key Cheker** Chrome Extension
 **This Chrome Extension helps Steamwork Game Developers to Verify there steam keys in bulk
 **
@@ -27,4 +28,4 @@ Get it here :
 incomplete documents.
 
 
-<meta name="google-site-verification" content="cgU8DvtdK8YQHw6IolWviX8ROayn0FMglhXKSl3T-hc" />
+
