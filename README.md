@@ -3,7 +3,6 @@
 <meta name="google-site-verification" content="cgU8DvtdK8YQHw6IolWviX8ROayn0FMglhXKSl3T-hc" />
 </head>
 **This Chrome Extension helps Steamwork Game Developers to Verify there steam keys in bulk**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JBNh7H9QNwo?si=PYXWH3zaqBkWw80P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Disclaimer: This is unofficial App and does not store or share any Steam account or CD key information. It is solely designed to help Game Developers checking CD key activation status in bulk on the Steamworks partner site. This extension is not affiliated with Steam. Please use Responsibly.
 
